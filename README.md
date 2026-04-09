@@ -32,3 +32,6 @@ This application serves as an "Agentic Creative Director," guiding users through
    python app.py
    
 5. Open your browser and navigate to http://127.0.0.1:5000
+
+6. UI Home Page:
+   <img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/98ade2b5-4782-44e8-85f4-db646934dbd9" />
