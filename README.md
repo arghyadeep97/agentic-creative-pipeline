@@ -1,4 +1,4 @@
-# Schema-Governed Creative Automation Pipeline
+# Creative Automation Pipeline - Creative Director
 
 A full-stack, stage-gated agentic workflow designed to automate complex prompt engineering and enforce strict brand consistency without requiring model fine-tuning. 
 
